@@ -32,6 +32,16 @@ Currently i am working as a full stack developer In Warsaw Poland.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
 
+
+### 🖥 Os and Apps
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/)
+
+
+
 ### Interesting stats
 
 ![Rahul Status](https://github-readme-stats.vercel.app/api?username=iamrraj&show_icons=true)
