@@ -1,10 +1,13 @@
 
 
-# Hi 👋 i am Rahul Raj
+
+## Hi there, I'm <a href="# " target="_blank">Rahul Raj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=social)](https://github.com/iamrraj)
 [![Linkedin](https://img.shields.io/badge/-Rahul%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamrraj/)](https://www.linkedin.com/in/iamrraj/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://simpleisbestt.herokuapp.com)
 [![Mail](https://img.shields.io/badge/-rajr97555@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rajr97555@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iamrraj)
 ![Rahul Raj views](https://gpvc.arturio.dev/iamrraj)
 
 
@@ -45,4 +48,11 @@ Currently i am working as a full stack developer In Warsaw Poland.
 
 ### Interesting stats
 
-![Rahul Status](https://github-readme-stats.vercel.app/api?username=iamrraj&show_icons=true)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrraj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrraj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
