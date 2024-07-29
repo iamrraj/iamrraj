@@ -6,19 +6,22 @@
 
 ## About me
 
-I'm a Full Stack developer engineer. I like to work with Reactjs, Django, Javascript and Python. I love Linux Kernel based OSs such as Ubuntu and MacOS.
-I'm Data Sciene Machine learning enthusiast.
+I'm a Full Stack developer with a passion for both frontend and backend technologies. My expertise spans across a wide range of skills, including:
 
-Currently i am working as a full stack developer In Warsaw Poland.
+- Frontend: React.js, JavaScript, TypeScript
+- Backend: Django, Python, FastAPI
+- AI and Machine Learning: Llama, OpenAI, LangChain, PyTorch
+- DevOps: AWS, OVH
+
+I'm particularly enthusiastic about AI and Machine Learning, always exploring new ways to integrate these technologies into practical applications.
+
+Currently, I'm working as a full stack developer in Warsaw, Poland, where I leverage my diverse skill set to create innovative solutions.
+
+I love working with Linux Kernel based OSs such as Ubuntu and MacOS, and I'm always eager to learn and adapt to new technologies in this ever-evolving field of software development.
 
 ## Stack I work with
 
-<!-- ### CI/CD
-
-![Jenkins](https://img.shields.io/badge/jenkins-%23007ACC.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  -->
-
- ### Frameworks, Platforms and Libraries & Programming
+### Frameworks, Platforms and Libraries & Programming
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,55 +45,23 @@ Currently i am working as a full stack developer In Warsaw Poland.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<!-- ### Design
+### DevOps
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  -->
-
-<!-- ### Hosting/SaaS -->
-
-<!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
+![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white)
 
-<!-- ### Version Control -->
-<!--
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
+### AI and Machine Learning
 
-<!-- ### Other -->
-<!--
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) -->
-
-<!-- ### 🖥 Os and Apps -->
-
-<!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/) -->
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-%23F7931E.svg?style=for-the-badge&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## Interesting stats
-
-<!-- 🧑‍💻 **GitHub Profile Summary Cards**
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrraj&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrraj&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamrraj&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrraj&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamrraj&theme=gruvbox&utcOffset=8) -->
 
 📈 **My GitHub Stats:**
 
 <p>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrraj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrraj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamrraj)](https://git.io/streak-stats)
 </p>
