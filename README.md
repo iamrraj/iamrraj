@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrraj)
 [![Linkedin](https://img.shields.io/badge/-Rahul%20Raj-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamrraj/)](https://www.linkedin.com/in/iamrraj/)
-[![Mail](https://img.shields.io/badge/rajr97555@gmail-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rajr97555@gmail.com)
+[![Mail](https://img.shields.io/badge/rahul@iamrraj.com-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rahul@iamrraj.com)
 
 ## About me
 
