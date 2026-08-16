@@ -2,39 +2,47 @@
 
 [![Website](https://img.shields.io/badge/iamrraj.com-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamrraj.com)
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrraj)
+[![ShipIt Org](https://img.shields.io/badge/org-shipiit-24292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shipiit)
 [![Linkedin](https://img.shields.io/badge/-Rahul%20Raj-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrraj/)
 [![Mail](https://img.shields.io/badge/rahul@iamrraj.com-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rahul@iamrraj.com)
 
 ## About me
 
-I'm a Full Stack developer based in Warsaw, Poland 🇵🇱, building AI-powered developer tools and security products. I work across the whole stack:
+I'm **Rahul Raj**, a Full Stack developer based in **Warsaw, Poland 🇵🇱**, building **AI-powered developer tools and security products**. I founded and build the **[ShipIt platform](https://github.com/shipiit)** — an ecosystem of AI software-engineering agents — alongside autonomous AI security tools like **Sentinel** and **PenAgent**.
 
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Python, Django / DRF, FastAPI, Node.js
-- **AI & LLMs:** Claude (Anthropic), OpenAI, Llama, LangChain, agentic systems, RAG
-- **Mobile / Desktop:** Swift (iOS & macOS), React Native
-- **DevOps:** AWS, OVH, Docker, CI/CD
+**What I do:**
 
-I'm especially passionate about **AI agents** — autonomous systems that can code, test, and audit software — and about applying LLMs to real-world security problems.
+- 🏗️ **Design and ship complete products end-to-end** — from the database schema and API design, through agent runtimes and LLM orchestration, to polished React frontends and native Swift apps.
+- 🤖 **Build AI agents that do real engineering work** — coding agents with repo-aware task execution, autonomous GitHub teammates that fix issues and open PRs, QA agents that drive real browsers, and pentest agents that find and prove real vulnerabilities.
+- 🔐 **Apply LLMs to offensive & defensive security** — automated penetration testing, SAST with runtime↔code correlation, AI-assisted malware reverse-engineering, and auditor-ready reporting.
+- 📊 **Care about the unglamorous parts** — observability, tracing, cost allocation, prompt governance, PII masking, multi-tenancy, and CI/CD.
+
+**My journey:** I started with Django and React, building products across **edtech, automotive, insurance, real-estate, and health** domains — and over the years moved deeper into **AI/ML engineering**: RAG pipelines, local Llama deployments, LangChain apps, fine-tuning, and finally fully autonomous multi-agent systems. Today my daily work is designing agent loops (Plan → Act → Observe → Reflect), tool-use protocols, MCP integrations, and the infrastructure that makes agents reliable in production.
+
+**Stack in one line:** Python (Django/DRF, FastAPI) · TypeScript (React 19, Node) · Swift (iOS/macOS) · Claude, OpenAI & Llama · Postgres · AWS/OVH/Docker.
+
+I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open source — and I'm always exploring how far autonomous agents can go.
 
 ## 🚀 What I'm working on now
 
-### ⚡ The ShipIt Platform — an AI software-engineering ecosystem
+### ⚡ The ShipIt Platform — an AI software-engineering ecosystem · [github.com/shipiit](https://github.com/shipiit)
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🤖 **ShipIt Agent** | Production-grade Python agent runtime — chat-based coding agent with live SSE streaming, Claude/Codex support, repo-aware task execution, code review, testing & local git automation, plus a role-based React control plane with a live Vibe-coding panel · [landing page](https://github.com/iamrraj/shipit-landing) | Python, React 19 |
-| ⌨️ **ShipIt CLI** | Open-source AI coding agent for the terminal — 65+ tools, 10+ LLM providers, computer use, browser automation, deep research, MCP, two-way Slack/Discord/Telegram/WhatsApp bots | TypeScript |
-| 🔨 **ShipIt Forge** | Autonomous GitHub coding agent — a teammate that fixes issues, opens PRs, and reviews pull requests with a security pass | Python |
-| 🧪 **ShipitQA** | Evidence-first autonomous product testing with real Playwright browsers, human takeover, and reproducible engineering reports | Python |
+| 🤖 [**ShipIt Agent**](https://github.com/shipiit/shipit_agent) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/shipit_agent) | Production-grade **Python agent runtime** — tools, MCP, hooks, skills, RAG, memory, sessions, reasoning & streaming packets. Powers a chat-based coding agent with live SSE streaming, Claude/Codex support, repo-aware task execution, code review, testing & local git automation, plus a role-based React control plane with a live Vibe-coding panel · [landing page](https://github.com/iamrraj/shipit-landing) | Python, React 19 |
+| ⌨️ **ShipIt CLI** | AI coding agent for the terminal — 65+ tools, 10+ LLM providers, computer use, browser automation, deep research, MCP, two-way Slack/Discord/Telegram/WhatsApp bots | TypeScript |
+| 🔨 [**ShipIt Forge**](https://github.com/shipiit/forge) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/forge) | Autonomous **GitHub coding agent** — a teammate that fixes issues, opens PRs, reviews code with a security lens, and auto-fixes CI. Multi-provider: Vertex Gemini, Bedrock, OpenAI, Anthropic | TypeScript |
+| 🧪 **ShipitQA** | Evidence-first **autonomous product testing** with real Playwright browsers, human takeover (OTP/login boundaries), and reproducible engineering reports | Python |
 | ☁️ **ShipIt Cloud** | Cloud control plane for running ShipIt agents remotely | Python |
-| 📊 **ShipIt Watcher** | Observability for LLM applications — tracing, agent graphs, prompt governance, cost allocation, PII masking | TypeScript |
+| 📊 [**ShipIt Watchtower**](https://github.com/shipiit/shipit-watchtower) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/shipit-watchtower) | **Observability for LLM applications** — tracing, agent graphs, prompt governance, cost allocation, PII masking. Python 3.11+, zero dependencies | Python |
+| 🎨 [**shipit-ui-design**](https://github.com/shipiit/shipit-ui-design) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/shipit-ui-design) | Senior UI/UX in your terminal — a **Claude Code plugin**: 11 skills, 9 commands, 9-category design rubric, screenshot critique loops, design-system bootstrap | TypeScript |
+| 🌈 [**ShipIt Palette**](https://github.com/shipiit/ShipIt_Palette) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/ShipIt_Palette) | Pick a color, ship the palette — modern color-palette studio with 14 export formats, live UI playground & full accessibility tools | JavaScript |
 
 ### 🛡️ AI Security
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🛡️ **Sentinel** | Autonomous AI penetration testing — a multi-agent platform (23 autonomous ReAct attacker agents) that finds, validates & explains real vulnerabilities in web apps and APIs, with code-level root cause, OWASP mapping, live exploit proof and auditor-ready reports · also a multi-tenant SaaS | Python, Django / DRF, React |
+| 🛡️ **Sentinel** | Autonomous AI penetration testing — a multi-agent platform (**23 autonomous ReAct attacker agents**) that finds, validates & explains real vulnerabilities in web apps and APIs, with code-level root cause, OWASP mapping, live exploit proof and auditor-ready reports · also a multi-tenant SaaS | Python, Django / DRF, React |
 | 🔍 **PenAgent** | AI-orchestrated penetration-testing agent — fully local, autonomous Plan → Act → Observe → Reflect loop, web pentest + SAST + runtime↔code correlation, Textual TUI + web dashboard | Python |
 | 🧠 **AI Reverse Engineer** | AI-assisted malware file analysis and reverse-engineering tooling | Python |
 
@@ -43,8 +51,9 @@ I'm especially passionate about **AI agents** — autonomous systems that can co
 | Project | What it is | Stack |
 |---|---|---|
 | 📱 **MacPilot** | Securely control your Mac from your iPhone — full desktop + terminal access, built on Tailscale, SSH & Screen Sharing | Swift |
+| 📸 [**Snappilot**](https://github.com/shipiit/snappilot) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/snappilot) | Free, open-source **Snagit alternative for macOS** — capture, annotate, record & OCR. Native Swift, on-device, private | Swift |
 
-### Other projects
+### 🧩 Other open source
 
 - 🧩 [**agent-builder**](https://github.com/iamrraj/agent-builder) — visual builder for AI agent workflows
 - 📝 [**markdown-task-notebook**](https://github.com/iamrraj/markdown-task-notebook) — local-first markdown notebook with notes table, split editor, live preview, tags & images
@@ -76,6 +85,7 @@ I'm especially passionate about **AI agents** — autonomous systems that can co
 ![Llama](https://img.shields.io/badge/Llama-%23F7931E.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5b5cf0?style=for-the-badge)
 
 ### Databases
 
@@ -97,3 +107,9 @@ I'm especially passionate about **AI agents** — autonomous systems that can co
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamrraj)](https://git.io/streak-stats)
+
+## 🤝 Let's connect
+
+- 💬 Talk to me about **AI agents, LLM tooling, or application security**
+- 🌍 Website: [iamrraj.com](https://iamrraj.com) · Org: [github.com/shipiit](https://github.com/shipiit)
+- 📫 Reach me at [rahul@iamrraj.com](mailto:rahul@iamrraj.com) or [LinkedIn](https://www.linkedin.com/in/iamrraj/)
