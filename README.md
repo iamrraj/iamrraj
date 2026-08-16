@@ -81,11 +81,13 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 ### AI & Machine Learning
 
 ![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge)
 ![Llama](https://img.shields.io/badge/Llama-%23F7931E.svg?style=for-the-badge&logo=meta&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5b5cf0?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5b5cf0?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### Databases
 
@@ -102,11 +104,11 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrraj&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrraj&layout=compact&hide_border=true&count_private=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamrraj&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamrraj&layout=compact&hide_border=true&count_private=true" alt="Top languages" height="165">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamrraj)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamrraj&hide_border=true)](https://git.io/streak-stats)
 
 ## 🤝 Let's connect
 
