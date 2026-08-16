@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrraj)
 [![ShipIt Org](https://img.shields.io/badge/org-shipiit-24292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shipiit)
 [![Linkedin](https://img.shields.io/badge/-Rahul%20Raj-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrraj/)
+[![X](https://img.shields.io/badge/-iamrRraj-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamrRraj)
 [![Mail](https://img.shields.io/badge/rahul@iamrraj.com-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rahul@iamrraj.com)
 
 ## About me
@@ -101,14 +102,19 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamrraj&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamrraj&layout=compact&hide_border=true&count_private=true" alt="Top languages" height="165">
-</p>
+![](https://github-readme-stats.shion.dev/api?username=iamrraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=iamrraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamrraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamrraj&hide_border=true)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=iamrraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🤝 Let's connect
 
