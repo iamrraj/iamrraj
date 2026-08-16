@@ -108,13 +108,6 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 ![](https://streak-stats.demolab.com/?user=iamrraj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamrraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=iamrraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🤝 Let's connect
 
