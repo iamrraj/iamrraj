@@ -53,6 +53,7 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 |---|---|---|
 | 📱 **MacPilot** | Securely control your Mac from your iPhone — full desktop + terminal access, built on Tailscale, SSH & Screen Sharing | Swift |
 | 📸 [**Snappilot**](https://github.com/shipiit/snappilot) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/snappilot) | Free, open-source **Snagit alternative for macOS** — capture, annotate, record & OCR. Native Swift, on-device, private | Swift |
+| 🔑 [**KeyVault**](https://github.com/shipiit/keyvault) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/keyvault) | Local-only, **zero-knowledge password manager** for Chromium browsers — AES-GCM-256 vault, PBKDF2 key derivation, RFC 6238 TOTP 2FA, smart autofill (works on React/Vue apps), password Watchtower, importers for 1Password/Bitwarden/LastPass. No backend, no account, no telemetry · **697 tests, 97% coverage, two runtime deps** | JavaScript |
 
 ### 🧩 Other open source
 
