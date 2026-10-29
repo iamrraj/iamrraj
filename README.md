@@ -1,4 +1,8 @@
+<a href="https://github.com/shipiit"><img src="https://raw.githubusercontent.com/shipiit/.github/main/profile/banner.jpg" alt="ShipIt — AI agents, developer tools and native Mac apps, built by Rahul Raj. Flagship: Vouchline." width="100%"></a>
+
 ## Hi there, I'm <a href="https://iamrraj.com" target="_blank">Rahul Raj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+**Founder of [ShipIt](https://github.com/shipiit)** · building **Vouchline**, research agents that verify what they find · full-stack & AI engineer in Warsaw 🇵🇱
 
 [![Website](https://img.shields.io/badge/iamrraj.com-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamrraj.com)
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrraj)
@@ -9,7 +13,7 @@
 
 ## About me
 
-I'm **Rahul Raj**, a Full Stack developer based in **Warsaw, Poland 🇵🇱**, building **AI-powered developer tools and security products**. I founded and build the **[ShipIt platform](https://github.com/shipiit)** — an ecosystem of AI software-engineering agents — alongside autonomous AI security tools like **Sentinel** and **PenAgent**.
+I'm **Rahul Raj**, a Full Stack developer based in **Warsaw, Poland 🇵🇱**, building **AI-powered developer tools and security products**. I founded and build **[ShipIt](https://github.com/shipiit)** — AI agents, developer tools and native Mac apps — and I'm currently focused on **Vouchline**, research agents whose every claim can be checked. Alongside that I build autonomous AI security tools like **Sentinel** and **PenAgent**.
 
 **What I do:**
 
@@ -25,6 +29,18 @@ I'm **Rahul Raj**, a Full Stack developer based in **Warsaw, Poland 🇵🇱**, 
 I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open source — and I'm always exploring how far autonomous agents can go.
 
 ## 🚀 What I'm working on now
+
+### ✅ Vouchline — my main focus
+
+> **Research agents that verify what they find.**
+
+Most AI research tools give you a confident paragraph and a list of links. Vouchline gives you a report where **every claim links to the exact source passage it came from**, with the quote shown inline — and before you ever see it, the system **re-checks each quote against the source itself**.
+
+- 🔎 **Research → verify → act**: agents search, read and extract, then a separate verification pass checks every citation
+- 🧾 **Claims you can audit**: quoted passage, source and location for each statement
+- 🏗️ Django + DRF API, Celery workers, React 19 + TypeScript, OpenAPI-generated client
+
+`in development` · follow along on [LinkedIn](https://www.linkedin.com/in/iamrraj/)
 
 ### ⚡ The ShipIt Platform — an AI software-engineering ecosystem · [github.com/shipiit](https://github.com/shipiit)
 
@@ -45,15 +61,18 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 |---|---|---|
 | 🛡️ **Sentinel** | Autonomous AI penetration testing — a multi-agent platform (**23 autonomous ReAct attacker agents**) that finds, validates & explains real vulnerabilities in web apps and APIs, with code-level root cause, OWASP mapping, live exploit proof and auditor-ready reports · also a multi-tenant SaaS | Python, Django / DRF, React |
 | 🔍 **PenAgent** | AI-orchestrated penetration-testing agent — fully local, autonomous Plan → Act → Observe → Reflect loop, web pentest + SAST + runtime↔code correlation, Textual TUI + web dashboard | Python |
+| 🔁 **Relay** | Self-hosted platform where the **Claude Code CLI is the engineer** — takes an issue to a reviewed PR, with three independent agents trying to refute its own fix before the PR opens | Python |
+| 🧰 **Pentest skills for Claude Code** | One `/pentest` command: scope form, recon, static review across every stack, scanners, local exploit verification, dynamic tests and an HTML report | Python, Claude Code |
 | 🧠 **AI Reverse Engineer** | AI-assisted malware file analysis and reverse-engineering tooling | Python |
 
-### 📱 Apps & Tools
+### 🖥️ Native apps & tools
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🧹 [**MacSweep**](https://github.com/shipiit/mac-sweep) <br>[![release](https://img.shields.io/github/v/release/shipiit/mac-sweep?style=flat-square&label=release&color=2ea44f)](https://github.com/shipiit/mac-sweep/releases/latest) | **One native app to clean, protect, speed up and understand your Mac** — 20-second Smart Scan that explains every file before it goes to the Trash, malware & download protection, security score, Memory Guard, Startup Guard, developer hub (Docker, Homebrew, Xcode, Git, ports), and Claude Code / Codex usage with cost and plan limits · 600+ tests, zero dependencies · [website](https://shipiit.github.io/mac-sweep-website/) | Swift, SwiftUI |
 | 📱 **MacPilot** | Securely control your Mac from your iPhone — full desktop + terminal access, built on Tailscale, SSH & Screen Sharing | Swift |
 | 📸 [**Snappilot**](https://github.com/shipiit/snappilot) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/snappilot) | Free, open-source **Snagit alternative for macOS** — capture, annotate, record & OCR. Native Swift, on-device, private | Swift |
-| 🔑 [**KeyVault**](https://github.com/shipiit/keyvault) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/keyvault) | Local-only, **zero-knowledge password manager** for Chromium browsers — AES-GCM-256 vault, PBKDF2 key derivation, RFC 6238 TOTP 2FA, smart autofill (works on React/Vue apps), password Watchtower, importers for 1Password/Bitwarden/LastPass. No backend, no account, no telemetry · **697 tests, 97% coverage, two runtime deps** | JavaScript |
+| 🔑 [**KeyVault**](https://github.com/shipiit/keyvault) <br>[![open source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/shipiit/keyvault) | Local-only, **zero-knowledge password manager** for Chromium browsers — AES-GCM-256 vault, PBKDF2 key derivation, RFC 6238 TOTP 2FA, smart autofill (works on React/Vue apps), password Watchtower, importers for 1Password/Bitwarden/LastPass. No backend, no account, no telemetry · **936 tests, 97% coverage, two runtime deps** · [website](https://shipiit.github.io/keyvault/) | JavaScript |
 
 ### 🧩 Other open source
 
@@ -112,6 +131,6 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 
 ## 🤝 Let's connect
 
-- 💬 Talk to me about **AI agents, LLM tooling, or application security**
+- 💬 Talk to me about **verifiable AI research, AI agents, LLM tooling, native Mac apps, or application security**
 - 🌍 Website: [iamrraj.com](https://iamrraj.com) · Org: [github.com/shipiit](https://github.com/shipiit)
 - 📫 Reach me at [rahul@iamrraj.com](mailto:rahul@iamrraj.com) or [LinkedIn](https://www.linkedin.com/in/iamrraj/)
