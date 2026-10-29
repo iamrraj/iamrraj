@@ -2,7 +2,7 @@
 
 ## Hi there, I'm <a href="https://iamrraj.com" target="_blank">Rahul Raj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**Founder of [ShipIt](https://github.com/shipiit)** · building **Vouchline**, research agents that verify what they find · full-stack & AI engineer in Warsaw 🇵🇱
+**Founder of [ShipIt](https://github.com/shipiit)** · building **[Vouchline](https://app.shipiit.com/)**, research agents that verify what they find · full-stack & AI engineer in Warsaw 🇵🇱
 
 [![Website](https://img.shields.io/badge/iamrraj.com-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamrraj.com)
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrraj)
@@ -30,7 +30,7 @@ I love Linux-kernel-based OSs (Ubuntu, macOS), local-first software, and open so
 
 ## 🚀 What I'm working on now
 
-### ✅ Vouchline — my main focus
+### ✅ [Vouchline](https://app.shipiit.com/) — my main focus
 
 > **Research agents that verify what they find.**
 
@@ -40,7 +40,7 @@ Most AI research tools give you a confident paragraph and a list of links. Vouch
 - 🧾 **Claims you can audit**: quoted passage, source and location for each statement
 - 🏗️ Django + DRF API, Celery workers, React 19 + TypeScript, OpenAPI-generated client
 
-`in development` · follow along on [LinkedIn](https://www.linkedin.com/in/iamrraj/)
+[![Try Vouchline](https://img.shields.io/badge/Try%20Vouchline-app.shipiit.com-37E5B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app.shipiit.com/) · follow along on [LinkedIn](https://www.linkedin.com/in/iamrraj/)
 
 ### ⚡ The ShipIt Platform — an AI software-engineering ecosystem · [github.com/shipiit](https://github.com/shipiit)
 
